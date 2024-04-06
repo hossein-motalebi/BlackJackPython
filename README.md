@@ -14,7 +14,7 @@ Run the Python script from your terminal or command prompt:
 
 bash
 Copy code
-python Projet_Feizabadi_abdolmotalebi.py
+python BlackJackGame.py
 Follow the on-screen prompts to choose between the different versions of the game and interact with the game as per the instructions.
 
 Contributing
@@ -25,6 +25,6 @@ This project is unlicensed, which means all rights are reserved by the creators.
 
 Authors
 FEIZABADI - feizabadi's GitHub
-aBDOLMOTALLEBI
+ABDOLMOTALLEBI
 Acknowledgments
 Thanks to the University of Grenoble for providing the platform and support to develop this project.
